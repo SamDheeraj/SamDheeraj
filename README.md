@@ -2,25 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Dheeraj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20%7C%20Python%20Developer&descAlignY=53&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Python+Developer;Machine+Learning+Enthusiast;NLP+%26+Computer+Vision+Explorer;Aspiring+GATE+2026+Qualifier;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Python+Developer;Machine+Learning+Enthusiast;NLP+%26+Computer+Vision+Explorer;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class SamDheeraj:
     def __init__(self):
-        self.name       = "Sam Dheeraj"
-        self.location   = "Hyderabad, Telangana, India 🇮🇳"
-        self.education  = "B.Tech | Preparing for GATE 2026 (AIML)"
-        self.languages  = ["Python", "SQL", "Markdown"]
-        self.interests  = ["Machine Learning", "NLP", "Data Science",
-                           "Computer Vision", "Deep Learning"]
-        self.currently  = "Building AI/ML Projects & Preparing for GATE 2026"
-        self.fun_fact   = "I turn coffee into ML models ☕→🤖"
+        self.name        = "Sam Dheeraj"
+        self.location    = "Hyderabad, Telangana, India"
+        self.education   = "B.Tech (AIML)"
+        self.languages   = ["Python", "SQL", "Markdown"]
+        self.interests   = ["Machine Learning", "NLP", "Data Science",
+                            "Computer Vision", "Deep Learning"]
+        self.currently   = "Building AI/ML Projects"
+        self.fun_fact    = "I turn coffee into ML models"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing.")
@@ -31,7 +31,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -52,71 +52,45 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🩺 **Diabetes Prediction** | ML classification model predicting diabetes using patient health metrics | Python, Scikit-learn, Pandas |
-| 📰 **NLP Text Summarizer** | Extractive text summarization using word frequency analysis | Python, NLTK, NLP |
-| 🌍 **World Population EDA** | Deep exploratory analysis of global population trends & patterns | Python, Pandas, Matplotlib, Seaborn |
-| 🔐 **Password Manager** | Secure local password storage and management tool | Python |
-| 📈 **Stock Market Dashboard** | Real-time stock data visualization and trend analysis | Python, Matplotlib, yFinance |
-| 🌐 **Machine Translation** | English → Hindi neural machine translation model | Python, Deep Learning, NLP |
-| 📡 **Real-Time News Scraper** | Automated news scraper fetching live headlines from multiple sources | Python, BeautifulSoup, Requests |
+| **Diabetes Prediction** | ML classification model predicting diabetes using patient health metrics | Python, Scikit-learn, Pandas |
+| **NLP Text Summarizer** | Extractive text summarization using word frequency analysis | Python, NLTK, NLP |
+| **World Population EDA** | Deep exploratory analysis of global population trends & patterns | Python, Pandas, Matplotlib, Seaborn |
+| **Password Manager** | Secure local password storage and management tool | Python |
+| **Stock Market Dashboard** | Real-time stock data visualization and trend analysis | Python, Matplotlib, yFinance |
+| **Machine Translation** | English to Hindi neural machine translation model | Python, Deep Learning, NLP |
+| **Real-Time News Scraper** | Automated news scraper fetching live headlines from multiple sources | Python, BeautifulSoup, Requests |
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamDheeraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDheeraj&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamDheeraj&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-</div>
+---
+
+## Current Focus
+
+- **Deep Learning** — Exploring CNNs, RNNs & Transformer architectures
+- **Building Projects** — Applying ML to real-world problems
+- **Research** — NLP & Computer Vision papers
 
 ---
 
-## 🎯 Current Focus
-
-- 🔬 **Deep Learning** — Exploring CNNs, RNNs & Transformer architectures
-- 📚 **GATE 2026 (AIML)** — Focused preparation for the AI/ML track
-- 🛠️ **Building Projects** — Applying ML to real-world problems
-- 📖 **Research** — NLP & Computer Vision papers
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+## Contribution Activity
 
 [![SamDheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamDheeraj&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-SamDheeraj-181717?style=for-the-badge&logo=github)](https://github.com/SamDheeraj)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samdheeraj@example.com)
 
-</div>
-
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SamDheeraj&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
