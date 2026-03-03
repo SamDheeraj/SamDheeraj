@@ -56,6 +56,7 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **WakeGuard AI** | Browser-based driver drowsiness detection using MediaPipe facial landmarks — runs entirely client-side | JavaScript, MediaPipe, HTML/CSS |
 | **Diabetes Prediction** | ML classification model predicting diabetes using patient health metrics | Python, Scikit-learn, Pandas |
 | **NLP Text Summarizer** | Extractive text summarization using word frequency analysis | Python, NLTK, NLP |
 | **World Population EDA** | Deep exploratory analysis of global population trends & patterns | Python, Pandas, Matplotlib, Seaborn |
@@ -66,23 +67,11 @@ me.say_hi()
 
 ---
 
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamDheeraj&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
----
-
 ## Current Focus
 
 - **Deep Learning** — Exploring CNNs, RNNs & Transformer architectures
 - **Building Projects** — Applying ML to real-world problems
 - **Research** — NLP & Computer Vision papers
-
----
-
-## Contribution Activity
-
-[![SamDheeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamDheeraj&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
